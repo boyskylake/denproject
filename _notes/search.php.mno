@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_showsearch" value="name:id;datatype:int,name:type_id;datatype:int,name:b_name;datatype:string,name:b_dcall;datatype:string,name:b_author;datatype:string,name:b_print;datatype:string,name:b_imprint;datatype:string,name:b_physical;datatype:string,name:b_heading;datatype:string,name:b_isbn;datatype:string,name:b_detail;datatype:string,name:b_briefly;datatype:blob,name:b_img1;datatype:string,name:b_img2;datatype:string,name:b_img3;datatype:string,name:date;datatype:date,name:p_view;datatype:int,name:rating;datatype:int" />
+</info>
